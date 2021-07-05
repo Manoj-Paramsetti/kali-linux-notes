@@ -25,7 +25,7 @@ Open nautilus in root
 $ su
 $ nautilus
 ```
-Now go to `/etc` select `docker/` folder then chage properites for non-root user as create and delete files
+Now go to `/etc` select `docker/` folder then change properites for non-root user as create and delete files
 
 **Now logout and login again**
 
